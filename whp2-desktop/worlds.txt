@@ -1,6 +1,0 @@
-worldSelection=4
-deviceSize=1
-handOrientation=1
-sound=1
-transparency=50
-music=1

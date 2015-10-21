@@ -1,0 +1,6 @@
+{
+   "jar": "WHP2Demo.jar",
+   "mainClass": "com/kenneth/whp2/Main",
+   "vmArgs": [
+      "-Xmx1G"
+   ]}
