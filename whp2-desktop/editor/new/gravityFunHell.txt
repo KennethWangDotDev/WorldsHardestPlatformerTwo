@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 925
+Time Limit: 10.5
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / /cannonNormalDown/ / /tileDroppable/ / /cannonNormalDown/ / /tileDroppable/ / /cannonNormalDown/ / /tileDroppable/ / /cannonNormalDown/ / /tileDroppable/ / / / /
+ / / / / / / / / / / / / / /powerupGravity/ / / / / /powerupGravity/ / / / / /powerupGravity/ / / / / /powerupGravity/ / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /gateVertical/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /gateVertical/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /gateVertical/ /character/ / / / / / /powerupGravity/ / / / / /powerupGravity/ / / / / /powerupGravity/ / / / / /powerupGravity/ / / / / /gateKey/ /
+ / /gateVertical/ / / / / / / / /tileDroppable/ / /cannonNormalUp/ / /tileDroppable/ / /cannonNormalUp/ / /tileDroppable/ / /cannonNormalUp/ / /tileDroppable/ / /cannonNormalUp/ / /tileNormal/ /
+door/ /gateVertical/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /

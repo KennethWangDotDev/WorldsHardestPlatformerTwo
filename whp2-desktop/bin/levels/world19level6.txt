@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 499
+Time Limit: 15
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / /door/ / / / / / / / / / / / / / / /
+ / / /tileNormal/tileNormal/tileNormal/ / / / / / / / / / / / / / /
+ /coin/ / / / / / / / / / / / / / / / / / /
+ /cannonSinRight/ / / / / / / / / / / / / / / / / / /
+ / / / / /coin/coin/coin/ / / / /coin/coin/ / /coin/coin/ / /
+ /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / /
+ / / / / / / / / / / / / / / / / / / / /
+ /character/ / / / / / / / / / / / / / / / / /coin/
+ / / / / / / / / / / / / / / / / / / /tileNormal/
+ /cannonFastRight/coin/coin/cannonFastLeft/ / / /tileNullifier/cannonFastRight/coin/coin/cannonFastLeft/ / / / / / / /
+ /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / /
+ / /cannonFastUp/cannonFastUp/ / /cannonFastUp/cannonFastUp/ / /cannonFastUp/cannonFastUp/ / /cannonFastUp/cannonFastUp/ / / / /

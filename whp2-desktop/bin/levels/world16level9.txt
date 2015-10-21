@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 2050
+Time Limit: 30.0
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/cannonFastDown/tileNormal/tileNormal/tileNormal/cannonFastDown/tileNormal/tileNormal/tileNormal/cannonFastDown/tileNormal/tileNormal/tileNormal/cannonFastDown/tileNormal/tileNormal/tileNormal/cannonFastDown/tileNormal/tileNormal/tileNormal/cannonFastDown/tileNormal/tileNormal/tileNormal/cannonFastDown/tileNormal/tileNormal/tileNormal/cannonFastDown/tileNormal/tileNormal/tileNormal/cannonFastDown/ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / /coin/ / / / / / / / / / / / / / / / / / / / / / / / /coin/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / /tileDroppable/ / / / / / / / / / / / / / / / / / / / / / / / /tileDroppable/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /coin/ / / / /coin/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / /coin/ / / / / / / / / / / / / / / / / /tileDroppable/ / / / /tileDroppable/ / / / / / / / / / /coin/ / / / / / / / / / / / / / / /tileSpeed/tileSpeed/tileSpeed/ / / / / / / / / / / / / / / / / / / / /
+ / /character/ / / / / / /tileDroppable/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /tileDroppable/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / /coin/ / / / / / / / / / / / / / / / / / / / / / / / / / / / /coin/ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / /powerupJump/ / / / / / / / / / / / / / / / / / / / /tileDroppable/ / / / / / / / / / / / / / / / / / / / / / / / / / / / /tileDroppable/ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / / / / / / / / / / / /coin/ / / / / / / / / / / / / / / / / / / / / / / / / / / /coin/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /tileDroppable/ / / / / / / / / / / / / / / / / / / / / / / / / / / /tileDroppable/ / / / / / / / / / / / / / / / / / / / / / / / / / / / /door/ / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/
+ / / / / / / /cannonFastUp/ / / /cannonFastUp/ / / /cannonFastUp/ / / /cannonFastUp/ / / /cannonFastUp/ / / /cannonFastUp/ / / /cannonFastUp/ / / /cannonFastUp/ / / /cannonFastUp/ / / /cannonFastUp/ / / /cannonFastUp/ / / /cannonFastUp/ / / /cannonFastUp/ / / / / / / / / / / / / / / / / / / / / / / / / / /

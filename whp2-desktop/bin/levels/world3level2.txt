@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 446
+Time Limit: 10.5
+Level Type: 0
+ / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / /
+ / / / / / / / / /cannonNormalDown/ / / / /cannonNormalDown/ / / /
+ / /tileNormal/ / / / / / /string-Don't touch the spinners!/ / / / / / / / /
+ / /tileNormal/ /character/ / / / / / / / / / / / / /
+ / /tileNormal/ / / / / / /coin/ / / / /coin/ / / /
+ / /tileNormal/ / / / / / / / / / / / / / / /
+ / /tileNormal/tileNormal/tileNormal/tileNormal/tileNullifier/tileNullifier/tileNormal/cannonSpinner-7/tileNormal/tileNullifier/tileNullifier/tileNormal/cannonSpinner-7/tileNormal/tileNullifier/tileNullifier/
+ / / / / / / / / / / / / / / / / / /
+ / / / / / / / / /coin/ / / / /coin/ / / /
+ / /door/ / / / / / / / / / / / / / / /
+ / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/
+ / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / /
+ / / / / / /cannonNormalUp/cannonNormalUp/ / / /cannonNormalUp/cannonNormalUp/ / / /cannonNormalUp/cannonNormalUp/

@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 575
+Time Limit: 16
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / /cannonBigDown/ / / /cannonBigDown/ / / /cannonBigDown/ / / /cannonBigDown/ / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / /gateKey/ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / /tileDroppable/ / / / / / / / / / / /
+ / /tileDroppable/ / /tileDroppable/ / /tileDroppable/ / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / /tileDroppable/ / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / /character/ / / / / / / / /tileDroppable/ / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / /cannonFastRight/ / / / / /tileDroppable/ / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /gateHorizontal/gateHorizontal/ /
+gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/ / /gateVertical/
+ / / / / / / / / / / / / / / / / /cannonNormalLeft/cannonSinLeft/ / / /gateVertical/
+tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / /door/ /gateVertical/

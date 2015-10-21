@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 1650
+Time Limit: 20.0
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /character/ / / / /gateVertical/gateVertical/ / / / /tileNormal/tileNormal/tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /tileNormal/ / / / /gateVertical/gateVertical/ / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/ / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/ / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/cannonBigRight/ / / / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/ / / / / / / / / / / / / / / / / / / / / / / / / / /door/ / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/ / / / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/ / / / / / / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /gateKey/
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/ / / / / / / / / / / / / / / / / /tileNormal/ / / / / /tileNormal/tileNormal/tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/cannonBigRight/ / / / / / / / / / / / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /coin/coin/ / /powerupGravity/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / /cannonFastUp/ / /cannonFastUp/ / /cannonFastUp/ / /cannonFastUp/ / /cannonFastUp/ / /cannonFastUp/ / /cannonFastUp/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /

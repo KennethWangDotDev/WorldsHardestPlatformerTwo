@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 800
+Time Limit: 13.5
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / /cannonNormalDown/ /cannonNormalDown/ /cannonNormalDown/ /cannonNormalDown/ /cannonNormalDown/ / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /gateVertical/ / / / / / / /cannonNormalDown/ /cannonNormalDown/ /cannonNormalDown/ /cannonNormalDown/ /cannonNormalDown/ /cannonNormalDown/ /cannonNormalDown/ /cannonNormalDown/ /cannonNormalDown/ /cannonNormalDown/ / / /
+ / /gateVertical/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /gateVertical/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /gateVertical/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /gateVertical/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /gateVertical/ / / /character/ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /gateVertical/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+door/ /gateVertical/ / / / / / / / / / / / / / / / / / / / / / / / / / / /gateKey/ /
+tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileNormal/tileNormal/tileNormal/

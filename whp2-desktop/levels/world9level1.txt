@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 846
+Time Limit: 16.5
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /gateVertical/ / / / / / / /tileIce/ / / / / /
+ / / / / /cannonNormalDown/ / /cannonNormalDown/ / /cannonNormalDown/ / /cannonNormalDown/ / / / / /gateVertical/ / / / / / / /tileIce/ / / / / /
+ / / / / / / / / / / / / / / / / / / / /gateVertical/ / / / / / / /tileIce/ / / / / /
+ / / / / / / / / / / / / / / / / / / / /gateVertical/ / / / / / / /tileIce/ / / / / /
+ / / / / / / / / / / / / / / / / / / / /gateVertical/ / / / / / / /tileIce/ / / / / /
+ / / / / / / / / / / / / / / / / / / / /gateVertical/ / / / / / / /tileIce/ / / / / /
+ / / / / /tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/ / / /tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/ / /tileIce/ / / / / /
+ / / /tileIce/tileIce/tileIce/ / / / / / / / / / /tileIce/ / / /tileIce/ / / / / / / /tileIce/ / / / / /
+ /character/ / / / / / / / / / / / / / /tileIce/tileIce/ / /tileIce/cannonSinRight/ / / / / / /tileIce/ / / / / /
+ / / / / / / / /tileSpikeUp/ / / / /tileSpikeUp/ /coin/tileIce/ / / /tileIce/ / / / / / / /tileIce/ / / / / /
+tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/ / / /tileIce/ / /tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/
+tileIce/ / / / / / /cannonNormalRight/ / / / / / / / / / / /tileIce/tileIce/ / / / / / / / / / / / /tileIce/
+tileIce/ / / / / / / / / / / / / / / / / / / /tileIce/ / / / / / / / / / / / /tileIce/
+cannonNormalRight/gateKey/ / / / / / / / / / / / / / / / / / /tileIce/ / / / / / / / / / /door/ /tileIce/
+tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/

@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 821
+Time Limit: 8
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / /cannonNormalDown/cannonNormalDown/ / / / / / /cannonNormalDown/cannonNormalDown/ / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / /coin/ / /coin/coin/ / /coin/ / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / /character/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/ / / /tileNormal/tileNormal/tileNormal/tileNormal/ / / /tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / /
+ / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / /tileNormal/ / / / / / /
+ / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / /cannonNormalRight/tileNormal/coin/ / / /door/ /
+ / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/cannonNormalUp/ / / / / / /cannonNormalUp/cannonNormalUp/ / / / / / /cannonNormalUp/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /

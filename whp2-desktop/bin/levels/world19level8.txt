@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 400
+Time Limit: 17
+Level Type: 0
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+ / /cannonFastDown/ / / / / / / / / / /gateVertical/ / /
+ / / / / / / / / / / / / /gateVertical/ / /
+ / / / / / / / /tileDroppable/tileDroppable/tileDroppable/tileDroppable/ /gateVertical/ / /
+ / / / / / / /cannonNormalRight/coin/gateKey/ /powerupGravity/ /gateVertical/ / /
+ / / / / / / / / / / / / /gateVertical/ / /
+ / / / / / / / / / / / / /gateVertical/ / /
+ /character/ / / / / / / / / / / /gateVertical/ / /
+ / / / / / / / / /coin/ / / /gateVertical/ / /
+ / / / / / / / / /powerupGravity/ / / /gateVertical/ / /
+tileNormal/tileNormal/ / / / / / / /cannonQuadra/ / / /gateVertical/ / /
+tileNormal/tileNormal/ / / / /coin/ / / / / / /gateVertical/ / /
+tileNormal/tileNormal/ /coin/coin/coin/cannonQuadra/ / / / / / /gateVertical/door/ /
+tileNormal/tileNormal/cannonFastUp/tileDroppable/tileDroppable/tileDroppable/cannonMultiUp/ / / / /coin/ /gateVertical/tileNormal/tileNormal/
+cannonSinRight/gateKey/coin/coin/ / / / / / / / / /gateVertical/ / /
+tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ /gateVertical/ / /

@@ -1,0 +1,29 @@
+Character Starting Coordinates: 352.0
+Tile Count: 1000
+Time Limit: 10.5
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / /coin/coin/ / /coin/coin/ / / / / / / / / / / / / / / /coin/coin/ / /coin/coin/ / / / /
+ / / / / / / / / / / / / / / / / / / / / / /character/ / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / /gateKey/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /gateKey/ /
+ / / / / / /tileNormal/tileNormal/tileNormal/cannonNormalUp/cannonNormalUp/tileNormal/tileNormal/cannonNormalUp/cannonNormalUp/tileNormal/tileNormal/ / / / /tileNormal/tileNormal/tileNormal/ / / / /tileNormal/tileNormal/cannonNormalUp/cannonNormalUp/tileNormal/tileNormal/cannonNormalUp/cannonNormalUp/tileNormal/tileNormal/tileNormal/ /
+ / / / / / / / / / / / / / / / / / / / / / /cannonTrace/ / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / /tileDroppable/ / / / / / / /tileDroppable/ / / / / / / / / / / / / /
+ / / / / / / / / / / /coin/coin/ / / / / / / / / / / / / / / / / / / /coin/coin/ / / / / / /
+ / / / / / /tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/ / / / / / / / / / / /tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/ /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /gateHorizontal/gateHorizontal/gateHorizontal/ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /gateVertical/ / / /gateVertical/ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /gateVertical/ / / /gateVertical/ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /gateVertical/ /door/ /gateVertical/ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /gateVertical/tileNormal/tileNormal/tileNormal/gateVertical/ / / / / / / / / / / / / / / /

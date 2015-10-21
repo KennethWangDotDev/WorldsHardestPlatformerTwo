@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 704
+Time Limit: 7.0
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / /cannonNormalDown/ / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /character/ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / /string-Watch out!!!/ / / / / / / / / / / / /
+ / / / / / / /coin/ / / / / / / / / / /coin/ / / / / / / /door/ /
+ /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/
+ / / / / / / / / / /coin/ / / / /coin/ / / / / / / / / / / / /
+ / / / / / / / / /tileNormal/tileNormal/tileNormal/ / /tileNormal/tileNormal/tileNormal/ / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / /cannonNormalUp/cannonNormalUp/ / / / / / / / / / / / / / /

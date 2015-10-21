@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 526
+Time Limit: 6.5
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /coin/ / / / /
+ / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / /door/ /
+ / / / /character/ / / / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/
+ / / / / /string-Hold jump to long jump/ / / / / / / / / /tileNormal/ / / / / /
+ / / / / / / / / / / / / / /coin/tileNormal/cannonNormalLeft/ / / / /
+ / / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/cannonNormalUp/ / / / /
+ / / / / / / / / /tileNormal/ / / / / / / / / / / /
+ / / / / / / / /coin/tileNormal/ / / / / / / / / / / /
+ / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/cannonNormalUp/ / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /

@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 650
+Time Limit: 6
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / /cannonBigDown/ / / /cannonBigDown/ / / /cannonBigDown/ / / /cannonBigDown/ / / / / / / /
+ / / /character/ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /string-beware of the big cannon/ / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / /coin/ / / /coin/ / / /coin/ / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / /coin/ / / /coin/ / / /coin/ / / /door/ /
+ / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/cannonBigUp/tileNormal/tileNormal/tileNormal/cannonBigUp/tileNormal/tileNormal/tileNormal/cannonBigUp/tileNormal/tileNormal/tileNormal/cannonBigUp/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /

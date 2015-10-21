@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 650
+Time Limit: 10.5
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /cannonSinDown/cannonSinDown/ / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / /tileNormal/ / / /tileNormal/ /coin/coin/ /tileNormal/ / / /tileNormal/
+ / / / / / / / / / / / /tileNormal/ / / / /tileNormal/ / /tileNormal/ / / / /tileNormal/
+ / / / / / / / / / / / /tileNormal/coin/ / / /tileNormal/ / /tileNormal/ / / /coin/tileNormal/
+ / / / / / / / / / / / /tileNormal/tileNormal/ / / /tileNormal/ / /tileNormal/ / / /tileNormal/tileNormal/
+ / / / / / / / / / / / /tileNormal/ / / / /tileNormal/ / /tileNormal/ / / / /tileNormal/
+ / / / / / / / / / / / /tileNormal/ / / /coin/tileNormal/ / /tileNormal/coin/ / / /tileNormal/
+ / / / / / / / / / / / /tileNormal/ / / /tileNormal/tileNormal/cannonQuadra/cannonQuadra/tileNormal/tileNormal/ / / /tileNormal/
+ / / /character/ / / / / / / / /tileNormal/ / / / /tileNormal/ / /tileNormal/ / / / /tileNormal/
+ / / / / / / / / / / / /tileNormal/coin/ / / /tileNormal/ / /tileNormal/ / / /coin/tileNormal/
+ / / / / / / / / / / / /tileNormal/tileNormal/ / / /tileNormal/ / /tileNormal/ / / /tileNormal/tileNormal/
+ / / / / / / / / / / / / / / / / /tileNormal/ / /tileNormal/ / / / / /
+ / / / / / / / / / / / / / / / / /tileNormal/ / /tileNormal/door/ / / / /
+tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/cannonSinUp/cannonSinUp/tileNormal/tileNormal/ / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ /

@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 725
+Time Limit: 30.0
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/cannonNormalDown/cannonNormalDown/cannonNormalDown/tileNormal/tileNormal/tileNormal/cannonNormalDown/cannonNormalDown/cannonNormalDown/ / / / / / /
+ / / / / / / / / / / / / / / / / / /coin/ / / / / / / / / / /
+ / / / / / / / /cannonSinRight/ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / /
+ / / / / / / / / / / / /gateVertical/ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / /gateVertical/ / / / / /coin/ / / / / / / / / / /
+ / / / / / / / / / / /tileNormal/gateVertical/ / /gateKey/ / /cannonQuadra/ / / / / / / / / / /
+ / / / / / / / / / / / /gateVertical/ / /tileNormal/tileNormal/tileSpikeUp/tileSpikeUp/tileSpikeUp/tileNormal/tileNormal/tileNormal/ / /gateHorizontal/gateHorizontal/gateHorizontal/gateHorizontal/
+ / / / / / / / / / / / /gateVertical/ / / / / /cannonMultiDown/ / / / / / /gateVertical/ / /gateVertical/
+ / / /character/ / / / / / / /tileNormal/gateVertical/ / / / / / / / / / / / /gateVertical/ / /gateVertical/
+ / / / / / / / / / / / /cannonNormalLeft/ /coin/ / / / / / / /coin/ / /gateVertical/door/ /gateVertical/
+ / / / / / / / / / / / /cannonNormalLeft/ /tileNormal/ / / / / / / /tileNormal/ / /gateVertical/tileNormal/tileNormal/gateVertical/
+ /tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/ /gateVertical/ / /tileNormal/ / / / / /tileNormal/ / / /gateVertical/ / /gateVertical/
+ / / / / / / / / / / /cannonNormalUp/gateVertical/ / / /tileNormal/ /gateKey/ /tileNormal/ / / / /gateVertical/ / /gateVertical/
+ / / / / / / / / / / / /gateVertical/ / / / /tileNormal/tileNormal/tileNormal/ / / / / /gateVertical/ / /gateVertical/

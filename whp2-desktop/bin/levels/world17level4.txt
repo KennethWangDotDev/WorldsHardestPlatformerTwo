@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 475
+Time Limit: 14
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / /
+door/ / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / /cannonSinLeft/ / / /
+ / / /tileNormal/ / /tileNormal/ / / /tileNormal/ / / /tileNormal/ / / / /
+ / /character/ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / /tileNormal/ / / / /
+ / /cannonBigRight/ / / / / / / / / / / / / / / / /
+ / /cannonBigRight/ / / / / / / / / / / / /cannonSinLeft/ / / /
+ / / /cannonNormalUp/cannonNormalUp/cannonNormalUp/tileNormal/cannonNormalUp/cannonNormalUp/cannonNormalUp/tileNormal/cannonNormalUp/cannonNormalUp/cannonNormalUp/tileNormal/ / / / /
+ / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / /

@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 1051
+Time Limit: 9.5
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /cannonNormalDown/ / /cannonNormalDown/ / / / / /
+ / / / /character/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileSpikeUp/tileSpikeUp/tileSpikeUp/cannonQuadra/tileSpikeUp/tileSpikeUp/tileSpikeUp/tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / /coin/ / / / / / / / / / / / / / / / / / / / / / / / / /tileSpeed/ / / / / / / / / / / /
+ / / / /tileNormal/tileSpikeUp/tileSpikeUp/tileSpikeUp/cannonQuadra/tileSpikeUp/tileSpikeUp/tileSpikeUp/tileNormal/ / / / / /cannonNormalUp/cannonNormalUp/cannonNormalUp/ / / /cannonNormalUp/cannonNormalUp/cannonNormalUp/ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / /coin/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / /tileNormal/tileSpikeUp/tileSpikeUp/tileSpikeUp/cannonQuadra/tileSpikeUp/tileSpikeUp/tileSpikeUp/tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /door/ / / /

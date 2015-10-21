@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 628
+Time Limit: 13.5
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / /cannonNormalDown/ / / /cannonNormalDown/ / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / /tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/ / / / / / /door/ / /
+ /tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/ / /coin/gateKey/coin/ / /tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/gateHorizontal/gateHorizontal/tileSlow/
+ /tileSlow/character/ / / / / / / / /cannonSinLeft/cannonSpinner-5/cannonSinRight/ / / / / / / / / / / /tileSlow/
+ /tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/ /coin/gateKey/coin/ /tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/
+ / / / / / / / / /tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/ / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / /cannonNormalUp/ / / /cannonNormalUp/ / / / / / / / / / / /

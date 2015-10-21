@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 700
+Time Limit: 17
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /cannonNormalDown/ / / / /cannonNormalDown/cannonNormalDown/ / /cannonNormalDown/cannonNormalDown/ /cannonNormalDown/ /cannonNormalDown/ / / / / / / / /gateVertical/ / /
+ / / / / / / / / / / / / / / / / / / / / / / / / /gateVertical/ / /
+ / / / / / / / / / / / / / / / / / / / / / / / / /gateVertical/door/ /
+ / / / / / / / / / / / / / / / / / / / / / / /coin/ /gateVertical/tileNormal/tileNormal/
+gateKey/ / / / / / / / / / / / / / / / / / / /coin/ / /tileNormal/ /gateVertical/ / /
+coin/ / / / / / / / / / / / / / / / / / / /tileNormal/ / / / /gateVertical/ / /
+cannonNormalRight/ / / / / / / / / / / / / / / / / / / / / / / / /gateVertical/ / /
+cannonNormalRight/ / / / / / / / / / / / / / / / / / / / / / / / /gateVertical/ / /
+tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / /gateVertical/ / /
+ / / / / / / / / / / / / / / / / / / / / / / / / /gateVertical/ / /
+ / / / / / / / / / / / / / / / / / / / /coin/ / / / /gateVertical/ / /
+ / / / / / / / / / / / / / / / / / / / /cannonNormalLeft/ / / / /gateVertical/ / /
+ /character/ / / / / /coin/ / / /coin/ / / / / / / / /cannonSinLeft/ / / / /gateVertical/ / /
+tileSlow/tileSlow/tileSlow/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileSpeed/tileSpeed/tileSpeed/tileSpikeUp/tileSpikeUp/tileSpikeUp/tileSpikeUp/ / / / / /gateVertical/ / /
+cannonNormalUp/ / /cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/ /cannonNormalUp/cannonNormalUp/cannonNormalUp/ /cannonNormalUp/ / / / /cannonNormalUp/cannonNormalUp/ / / / / / /gateVertical/ / /

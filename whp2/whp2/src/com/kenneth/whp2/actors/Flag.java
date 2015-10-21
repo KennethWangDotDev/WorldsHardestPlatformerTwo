@@ -1,0 +1,58 @@
+package com.kenneth.whp2.actors;
+
+import java.util.ArrayList;
+
+import com.badlogic.gdx.graphics.Texture;
+import com.badlogic.gdx.graphics.g2d.Batch;
+import com.badlogic.gdx.graphics.g2d.TextureRegion;
+import com.badlogic.gdx.math.Rectangle;
+import com.badlogic.gdx.scenes.scene2d.Actor;
+import com.kenneth.whp2.Assets;
+import com.kenneth.whp2.actors.objects.Characters;
+import com.kenneth.whp2.screens.GameScreen;
+
+public class Flag extends Actor{
+
+	public static Flag flag;
+	private float speedX, speedY;
+	private Rectangle rect = new Rectangle(0, 0, 0, 0);
+	private Texture image;
+	private boolean up;
+
+	
+	public Flag(float x, float y) {
+		flag = this;
+		setWidth(32);
+		setHeight(64);
+		setPosition(x * 32, y * 32);
+		image = Assets.flagDown;
+	}
+	public void draw(Batch batch, float parentAlpha) {
+		super.draw(batch, parentAlpha);
+		batch.setColor(getColor().r, getColor().g, getColor().b, getColor().a);
+		batch.draw(image, getX(), getY(), getWidth(), getHeight());
+	}
+	
+	public void act(float delta) {
+		super.act(delta);
+		if (GameScreen.gs.getWrap().getGameState() == 0) {
+        speedX = Background.bg.getSpeedX()*5;
+        setX(getX() + (speedX * delta));
+		setY(getY() + (speedY * delta));
+		rect.set(getX(), getY(), getWidth(), getHeight());
+		if (rect.overlaps(Characters.mainCharacter.getRectBottom())) {
+			up = true;
+			image = Assets.flagUp;
+		}
+		}
+
+	}
+	
+	public boolean isUp() {
+		return up;
+	}
+	public void setUp(boolean up) {
+		this.up = up;
+	}
+		
+}

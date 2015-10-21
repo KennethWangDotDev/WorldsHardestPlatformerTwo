@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 380
+Time Limit: 12
+Level Type: 0
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / /
+tileNormal/ / / / / / / / / /tileNullifier/tileSpikeUp/tileSpikeUp/tileSpikeUp/tileSpikeUp/tileSpikeUp/
+tileNormal/ / / /tileNormal/tileNormal/tileNormal/tileNormal/ / /tileNullifier/ / / / / /
+tileNormal/tileNormal/ / /tileNormal/ / / / / /cannonNormalLeft/ / / / / /
+tileNormal/ / / /tileNormal/ /tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileNullifier/ / / / / /
+tileNormal/ / /coin/tileNormal/ / / / / /tileNullifier/tileNullifier/tileNullifier/ / / /
+tileNormal/ / /tileNormal/cannonNormalRight/ / / / / / / /tileNullifier/ / / /
+tileNormal/ / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ /tileNullifier/ / / /
+tileNormal/coin/ / /tileNormal/ / / / / / / /tileNullifier/ / / /
+tileNormal/tileNormal/ / /cannonNormalRight/ / / / / / / /tileNullifier/ / / /
+tileNormal/ / / /tileNormal/ /tileNullifier/tileNullifier/tileNullifier/tileNullifier/tileNullifier/tileNullifier/tileNullifier/ / / /
+tileNormal/ / /coin/tileNormal/ / / / / / / / / / / /
+tileNormal/ / /tileNormal/tileNormal/ / / / / / / / / / / /
+tileNormal/ / / /tileNormal/ / / / / / / / / / / /
+tileNormal/character/ / /tileNormal/ /coin/coin/coin/coin/coin/coin/coin/door/ / /
+tileNormal/tileNormal/cannonNormalUp/tileNormal/tileNormal/tileNormal/cannonNormalUp/tileNormal/cannonNormalUp/tileNormal/cannonNormalUp/tileNormal/cannonNormalUp/tileNormal/tileNormal/ /

@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 725
+Time Limit: 20.0
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ /door/ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+tileNormal/tileNormal/tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / /
+tileNormal/tileNormal/tileNormal/ / /coin/ / / /coin/ / / /coin/ / / /coin/ / / /coin/ / / /tileNormal/ / / /
+tileNormal/tileNormal/tileNormal/cannonQuadra/ /cannonQuadra/ /cannonQuadra/ /cannonQuadra/ /cannonQuadra/ /cannonQuadra/ /cannonQuadra/ /cannonQuadra/ /cannonQuadra/ /cannonQuadra/ / / / / / / /
+tileNormal/character/ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / /tileNormal/ / / /
+tileNormal/powerupJump/ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+tileNormal/tileNormal/tileNormal/ / /cannonQuadra/ / / /cannonQuadra/ / / /cannonQuadra/ / / /cannonQuadra/ / / /cannonQuadra/ / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /

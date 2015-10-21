@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 1648
+Time Limit: 10.5
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /character/ / / / /gateVertical/gateVertical/ / / / /tileNormal/tileNormal/tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /tileNormal/ / / / /gateVertical/gateVertical/ / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/ / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/ / / / / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/ / / / / / / / / / / / / / / / / / / / / / / / / / /door/ / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/ / / / / / / / / / / /cannonTrace/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /gateKey/
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/ / / / / / / / / / / / / / / / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/ / / / / / / / / /tileNormal/ / / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /cannonNormalLeft/cannonNormalRight/ / / / / /tileNullifier/ / / / / / / / / / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /coin/coin/ / /powerupGravity/ / / / / / / / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /tileNormal/tileNormal/ / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /

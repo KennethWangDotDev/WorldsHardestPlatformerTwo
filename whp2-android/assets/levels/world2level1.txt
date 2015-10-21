@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 627
+Time Limit: 6.0
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / /cannonNormalDown/cannonNormalDown/ / / /cannonNormalDown/cannonNormalDown/ / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / /character/ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / /string-Nullifier Tiles block/ / / / / / / / / / / / /tileNullifier/tileNullifier/tileNullifier/ / /
+ / / / / / / /string-enemy bullets/ / / / / / / / / / / / /tileNormal/ / / / /
+ / / / / / / / / / / / / / / /tileNullifier/tileNullifier/tileNullifier/tileNormal/tileNormal/tileNormal/ / / / /
+ / / / / / / / / / / / / / / /tileNormal/ / / / / / / / /coin/
+ / / / / / / / / / /tileNullifier/tileNullifier/tileNullifier/tileNormal/tileNormal/tileNormal/ / / / / / / / /coin/
+ / / / / / / / / / / / / / / / / / / / / / / / /coin/
+ / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /door/ / / /
+ / / / / / / / / / /cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/ / /

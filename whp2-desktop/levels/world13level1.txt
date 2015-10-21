@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 775
+Time Limit: 7.5
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /cannonNormalDown/ /cannonNormalDown/ /cannonNormalDown/cannonNormalDown/ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /coin/coin/ / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / /coin/coin/coin/coin/coin/coin/coin/coin/coin/coin/coin/coin/ / / / / / /door/ /
+ / / / / / / / / / / /tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileNormal/tileNormal/tileNormal/tileNormal/
+ / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ /character/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / /cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/ / / / / / /

@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 650
+Time Limit: 20.0
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+tileIce/ / / / / / / /cannonNormalDown/cannonNormalDown/ /gateVertical/ / / /gateVertical/ /cannonNormalDown/cannonNormalDown/ / / / / / /tileIce/
+tileIce/ / / / / / / / / / /gateVertical/ / / /gateVertical/ / / / / / / / / /tileIce/
+tileIce/ / / / / / / / / / /gateVertical/ / / /gateVertical/ / / / / / / / / /tileIce/
+tileIce/ / / / / / / / / / /gateVertical/ /door/ /gateVertical/ / / / / / / / / /tileIce/
+tileIce/ / / / / / / / /tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/ / / / / / / / /tileIce/
+tileIce/ / / / / / / / / / / / / / / / / / / / / / / / /tileIce/
+tileIce/ / / / / /cannonSinRight/ / / / / / / / / / / / /cannonSinLeft/ / / / / /tileIce/
+tileIce/ / / / / / / / / / / /gateKey/coin/ / / / / / / / / / / /tileIce/
+tileIce/character/ /tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/ / /tileIce/
+tileIce/ / / / / / / / / / / / / / / / / / / / / / / / /tileIce/
+tileIce/ / / / / / / / / / / / / / / / / / / / / / / /gateKey/tileIce/
+tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/
+ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / /cannonNormalUp/cannonNormalUp/cannonNormalUp/ / /cannonNormalUp/cannonNormalUp/ / / /cannonNormalUp/cannonNormalUp/ / /cannonNormalUp/cannonNormalUp/cannonNormalUp/ / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / /

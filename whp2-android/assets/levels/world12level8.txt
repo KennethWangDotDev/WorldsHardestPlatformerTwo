@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 775
+Time Limit: 9
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / /cannonNormalDown/ / / /cannonNormalDown/ / / /cannonNormalDown/ / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / /coin/ / / /coin/ / / /coin/ / / /coin/ / / / / / / / / /
+ / /character/ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /door/ /
+ /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / /tileDroppable/ / / /tileDroppable/ / / /tileDroppable/ / / /tileDroppable/ / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / /string-Fade tiles disappear when/ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / /string-you touch it/ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / /cannonFastUp/ / / /cannonFastUp/ / / /cannonFastUp/ / / /cannonFastUp/ / / / / / / / / /

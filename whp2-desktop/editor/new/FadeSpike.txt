@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 97
+Time Limit: 10.5
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / /tileDroppable/ /cannonNormalDown/cannonNormalDown/ / / / / / / /
+ / / / / / / / / / / / /tileDroppable/ / / / / / / / / / /
+ / / /character/ / / / / / / / /tileDroppable/ / / / / / / / /door/ /
+coin/ / / / / / / / / / / /tileDroppable/ / / /tileDroppable/ / / / /tileNormal/tileNormal/
+tileDroppable/tileDroppable/tileDroppable/tileDroppable/ / / / / / / / /tileDroppable/ / / / / / / / / / /
+tileSpikeUp/tileSpikeUp/tileSpikeUp/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/ / /tileDroppable/tileDroppable/ / / / / / / / / /
+tileSpikeDown/tileSpikeDown/tileSpikeDown/tileSpikeUp/tileSpikeUp/tileSpikeUp/tileSpikeUp/tileSpikeUp/tileSpikeUp/tileSpikeUp/ / /tileDroppable/ / / / / / / / / / /
+ / / /tileSpikeDown/tileSpikeDown/tileSpikeDown/tileSpikeDown/tileSpikeDown/tileSpikeDown/tileSpikeDown/ / /tileDroppable/ / / /tileDroppable/ / / / / / /
+ / / / / / / / / / / / /tileDroppable/ / / / / / / / / / /
+coin/ / /coin/coin/ /coin/coin/ / / / /tileDroppable/tileDroppable/ / / / / / / / / /
+ / / / / / / / / / / / /tileDroppable/ / / / / / / / / / /
+ / /tileDroppable/ / /tileDroppable/ / /tileDroppable/ / /tileDroppable/tileDroppable/ / / /tileDroppable/ / / / / / /
+ / /tileSpikeUp/ / /tileSpikeUp/ / /tileSpikeUp/ / / / / / / /tileNormal/ / / / / / /
+ / / / / / / / / / / / /cannonNormalLeft/ / /coin/tileNormal/ / / / / / /
+tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / /

@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 875
+Time Limit: 30.0
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+cannonNormalDown/cannonNormalDown/tileNormal/cannonNormalDown/tileNormal/cannonNormalDown/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / /
+coin/ /coin/ /coin/ /coin/coin/powerupGravity/tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / /
+coin/ / / / / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/
+tileNormal/ / / / / / / / /tileNormal/ / / / / / / / / / / / / / /tileNormal/tileNormal/cannonFastDown/tileNormal/cannonFastDown/tileNormal/ /gateVertical/ / /tileNormal/
+tileNormal/ / / / / / /character/ /tileNormal/ / / / / / / / / / / / / / /tileNormal/gateKey/coin/coin/coin/coin/ /gateVertical/ / /tileNormal/
+tileNormal/ / / / /tileNormal/tileNormal/tileNormal/ /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNullifier/tileNormal/ / / / / / /gateVertical/door/ /tileNormal/
+tileNormal/ / /tileNormal/tileNormal/tileNormal/coin/cannonSinRight/ / / / / / / / / / / / / / / / / / / / / / / /gateVertical/ / /tileNormal/
+ / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNullifier/ / / / / / / /gateVertical/ / /tileNormal/
+tileNormal/ / / / / / /tileNormal/ / / / / / / / / / / / / / / /tileNormal/ /coin/coin/coin/coin/coin/ /gateVertical/ / /tileNormal/
+tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / /tileNormal/ / / / / / / / / / / / / / / /tileNormal/tileNormal/cannonFastUp/tileNormal/cannonFastUp/tileNormal/cannonFastUp/powerupGravity/gateVertical/ / /tileNormal/
+tileNormal/coin/ / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/
+tileNormal/coin/ / / / / /tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+cannonNormalRight/coin/ / / / /coin/tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+tileNormal/powerupGravity/coin/coin/coin/coin/cannonNormalUp/tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+tileNormal/tileNormal/cannonNormalUp/tileNormal/cannonNormalUp/tileNormal/tileNormal/tileNormal/ / /cannonNormalUp/ /cannonNormalUp/ /cannonNormalUp/ /cannonNormalUp/ /cannonNormalUp/ /cannonNormalUp/ /cannonNormalUp/ / / / / / / / / / / / /

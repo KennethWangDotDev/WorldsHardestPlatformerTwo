@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 550
+Time Limit: 20.0
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / /cannonNormalDown/cannonNormalDown/ / / / /cannonNormalDown/cannonNormalDown/ / /cannonNormalDown/cannonNormalDown/cannonNormalDown/cannonNormalDown/ / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+coin/ / / /tileSpikeUp/ / / /tileSpikeUp/ / / / / / / / / / / /gateVertical/ /
+coin/character/ / /cannonSpinner-4/ / / /cannonSpinner-4/ / / / / / / / / / / /gateVertical/ /
+coin/ / / / / / / / / / /cannonNormalLeft/coin/coin/coin/ / / / / /gateVertical/ /
+tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/ / / / /gateVertical/ /
+tileNormal/ / / / / / / / / / /cannonNormalUp/ / / / / / / / /gateVertical/ /
+tileNormal/ / / / / / / / / / / / / / / / / / / /gateVertical/door/
+tileNormal/ / / / / / / / / / / / / / / / /tileNormal/ / /gateVertical/ /
+cannonFastRight/gateKey/ / / / / / / / / / / / / / / / / / /gateVertical/ /
+tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/ / / / /gateVertical/ /

@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 1076
+Time Limit: 8.5
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / /cannonNormalDown/cannonNormalDown/cannonNormalDown/cannonNormalDown/ /cannonNormalDown/cannonNormalDown/cannonNormalDown/cannonNormalDown/ /cannonNormalDown/cannonNormalDown/cannonNormalDown/cannonNormalDown/ /cannonNormalDown/cannonNormalDown/cannonNormalDown/cannonNormalDown/ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / /coin/ / / / /coin/ / / / /coin/ / / / /coin/ / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / /character/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / /coin/coin/coin/coin/ /coin/coin/coin/coin/ /coin/coin/coin/coin/ /coin/coin/coin/coin/ / / / / / / / / / / / / / / /
+ / / /tileNormal/tileNormal/tileNormal/tileNormal/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/ / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /door/ /
+ / / / / / / /cannonNormalUp/cannonNormalUp/cannonNormalUp/ / /cannonNormalUp/cannonNormalUp/cannonNormalUp/ / /cannonNormalUp/cannonNormalUp/cannonNormalUp/ / /cannonNormalUp/cannonNormalUp/cannonNormalUp/ / /cannonNormalUp/cannonNormalUp/cannonNormalUp/ / / / / / / / / / / /tileNormal/tileNormal/

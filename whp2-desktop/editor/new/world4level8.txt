@@ -1,0 +1,29 @@
+Character Starting Coordinates: 352.0
+Tile Count: 982
+Time Limit: 12.0
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / /coin/coin/ / /coin/coin/ / / / / / / / / / / / / / / /coin/coin/ / /coin/coin/ / / /
+ / / / / / / / / / / / / / / / / / / / / / /character/ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / /gateKey/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /gateKey/
+ / / / / / /tileNormal/tileNormal/tileNormal/cannonNormalUp/cannonNormalUp/tileNormal/tileNormal/cannonNormalUp/cannonNormalUp/tileNormal/tileNormal/ / / / /tileNormal/tileNormal/tileNormal/ / / / /tileNormal/tileNormal/cannonNormalUp/cannonNormalUp/tileNormal/tileNormal/cannonNormalUp/cannonNormalUp/tileNormal/tileNormal/tileNormal/
+ / / / / / / / / / / / / / / / / / / / / / /cannonTrace/ / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / /gateHorizontal/gateHorizontal/gateHorizontal/ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /gateVertical/ / / /gateVertical/ / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /gateVertical/ / / /gateVertical/ / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /gateVertical/ /door/ /gateVertical/ / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /gateVertical/tileNormal/tileNormal/tileNormal/gateVertical/ / / / / / / / / / / / / / /

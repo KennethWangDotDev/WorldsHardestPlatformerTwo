@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 352
+Time Limit: 14.5
+Level Type: 0
+ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / /
+ / / / / / /cannonNormalDown/cannonNormalDown/ / /cannonNormalDown/cannonNormalDown/ / / /
+ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / /door/ /
+ / / / / / / / / /tileIce/tileIce/tileIce/cannonNormalLeft/tileIce/tileIce/
+ / / / / / / / / /tileIce/coin/coin/tileIce/tileIce/tileIce/
+ / / / / / / / / /coin/coin/coin/tileIce/tileIce/tileIce/
+ / / / / / / / /cannonNormalLeft/coin/coin/coin/tileIce/tileIce/tileIce/
+character/ / / / /tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/
+ / / / / /cannonNormalLeft/coin/coin/ /tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/
+ / /tileIce/tileIce/tileIce/tileIce/coin/coin/cannonSpinner-7/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/
+ / / / / / /coin/coin/coin/coin/coin/tileIce/tileIce/tileIce/tileIce/
+tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/tileIce/
+ / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / /

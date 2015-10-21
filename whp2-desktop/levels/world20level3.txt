@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 675
+Time Limit: 22
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / /coin/ / / / / / / / / / / / / / / / /
+ / / / / / / / / /tileNormal/tileNormal/tileNormal/ / / /tileNormal/tileNormal/tileNormal/ / / / / / / / / /
+ / / / / / / / /coin/tileNormal/cannonSpinner-7/tileNormal/gateHorizontal/gateHorizontal/gateHorizontal/tileNormal/cannonQuadra/tileNormal/coin/ / / / / / / / /
+ / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / /
+ / / / / /coin/tileNormal/cannonSpinner-7/tileNormal/ / / / / / / / / /tileNormal/cannonQuadra/tileNormal/coin/ / / / / /
+ / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / /coin/ / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / /
+ / /character/ /tileNormal/cannonSpinner-7/tileNormal/ / / / / /cannonNormalUp/cannonTrace/cannonNormalUp/ / / / / / /tileNormal/cannonQuadra/tileNormal/coin/coin/gateKey/
+tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / / / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / /tileNormal/ / / /tileNormal/ / / / / / / / / / / /
+ / / / / / / / / / / /tileNormal/ / / /tileNormal/ / / / / / / / / / / /
+ / / / / / / / / / / /tileNormal/door/ / /tileNormal/ / / / / / / / / / / /
+ / / / / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / / / / / / /

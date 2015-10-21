@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 675
+Time Limit: 16.5
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / /tileNormal/tileNormal/tileNormal/cannonNormalDown/tileNormal/cannonNormalDown/tileNormal/cannonNormalDown/tileNormal/cannonNormalDown/ / / / / / /
+ / / / / / / / / / / /gateVertical/ / /coin/ / / / / /coin/ / / / / / /
+ / / / / / / / / / / /gateVertical/ /powerupGravity/ / / / / / / / / / / / / /
+ / / / / / / / / / / /tileNormal/tileNormal/tileNormal/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/ / / / / / /
+ / / / / / / / / / / / / / /coin/ /coin/ /coin/ /coin/ / / / / / /
+ / /gateKey/ / / / / /gateKey/ / / /cannonNormalDown/ / / / / / / / / / / / / / /
+ / /tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/ / / / / / / / / / / / / / / / / / /
+coin/ / / / / / / / / / / / / /tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileNormal/tileNormal/tileNormal/tileNormal/ / /
+cannonNormalUp/ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /coin/ /coin/ /coin/ /coin/ / / / / / / / / / / / / / / / / / /
+ / /cannonNormalUp/tileNormal/cannonNormalUp/tileNormal/cannonNormalUp/tileNormal/cannonNormalUp/ / / / / / / / / / / / / / /door/ / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ /character/coin/ / / / / /coin/ / / / / / / / / / / / / / / / / / /
+ /tileNormal/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileDroppable/ / / / / / / / / / / / / / / / / / /
+ / /tileSpikeUp/tileSpikeUp/tileSpikeUp/tileSpikeUp/tileSpikeUp/tileSpikeUp/tileSpikeUp/ / / / / / / / / / / / / / / / / / /

@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 500
+Time Limit: 11.5
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / /cannonBigDown/cannonBigDown/ / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / /character/ / / / / / / / / / / / / / / /
+ / / / /cannonBigDown/ / / / / / / / / / / /cannonBigDown/ / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / /cannonBigDown/ / / / /cannonBigDown/ / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / /coin/ / / / / / / / / / / /coin/ / / /
+ /cannonBigRight/ / /tileDroppable/ / / / / /cannonQuadra/cannonQuadra/ / / / /tileDroppable/ / /cannonBigLeft/
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / /cannonBigUp/ / / / /cannonBigUp/ / / / / / /
+ / / / / / / / / / / / / / / / / / / / /
+ / / / /cannonBigUp/ / / / / /door/ / / / / /cannonBigUp/ / / /

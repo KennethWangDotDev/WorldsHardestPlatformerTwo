@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 1342
+Time Limit: 20.0
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / /character/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /cannonNormalDown/cannonNormalDown/ /cannonNormalDown/ /cannonNormalDown/ / / / / / /gateVertical/ /
+ / / /powerupJump/ / / / / / / / / / / / / / / / / / / / / / / / / / /gateKey/ / / / / / / / / / / / / / / / / / / / / / /gateVertical/ /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / / /gateVertical/ /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / / /gateVertical/ /
+ / /tileNormal/tileNormal/ / / / / / /tileNormal/tileNormal/ / / / /tileNormal/tileNormal/ / / / /tileNormal/tileNormal/ / / / /tileNormal/cannonBigUp/cannonBigUp/cannonBigUp/tileNormal/ / / / / / / / /coin/coin/coin/tileNormal/tileNormal/ / / / / / / /gateVertical/ /
+ / /tileNormal/tileNormal/ / /gateKey/gateKey/ / /tileNormal/tileNormal/ / / / /tileNormal/tileNormal/gateKey/coin/coin/coin/tileNormal/tileNormal/ / / / /tileNormal/cannonBigUp/cannonBigUp/cannonBigUp/tileNormal/ / / / / / / / /coin/coin/coin/tileNormal/tileNormal/ / / / / / / /gateVertical/ /
+ / /tileNormal/tileNormal/coin/coin/ / /coin/coin/tileNormal/tileNormal/cannonSinUp/ /cannonSinUp/ /tileNormal/tileNormal/tileNormal/cannonQuadra/cannonQuadra/tileNormal/tileNormal/tileNormal/ / / / /tileNormal/cannonBigUp/cannonBigUp/cannonBigUp/tileNormal/ / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / / /gateVertical/ /
+ / /tileNormal/tileNormal/coin/coin/tileNormal/tileNormal/coin/coin/tileNormal/tileNormal/ /cannonSinUp/ /cannonSinUp/tileNormal/tileNormal/tileNormal/cannonQuadra/cannonQuadra/tileNormal/tileNormal/tileNormal/cannonMultiUp/cannonMultiUp/cannonMultiUp/ /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ /cannonFastUp/ /cannonFastUp/ /cannonFastUp/ / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / / /gateVertical/ /
+ / /tileNormal/tileNormal/coin/coin/tileNormal/tileNormal/coin/coin/tileNormal/tileNormal/ / / / /tileNormal/tileNormal/tileNormal/cannonQuadra/cannonQuadra/tileNormal/tileNormal/tileNormal/ / / / /tileNormal/tileNormal/ / / / / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / / /gateVertical/ /
+ / /tileNormal/tileNormal/tileNormal/tileNormal/cannonNormalUp/cannonNormalUp/tileNormal/tileNormal/tileNormal/tileNormal/ / / / /tileNormal/tileNormal/ / / / /tileNormal/tileNormal/ / / / /tileNormal/tileNormal/ / / / / / / / / / / /tileNormal/tileNormal/coin/coin/coin/ / / / / / / /gateVertical/ /
+ / /tileNormal/tileNormal/tileNormal/tileNormal/cannonNormalUp/cannonNormalUp/tileNormal/tileNormal/tileNormal/tileNormal/ / / / /tileNormal/tileNormal/ / / / /tileNormal/tileNormal/ / / / /tileNormal/tileNormal/ / / / / / / / / / / /tileNormal/tileNormal/gateKey/coin/coin/ / / / / / / /gateVertical/door/
+ / /tileNormal/tileNormal/tileNormal/tileNormal/cannonNormalUp/cannonNormalUp/tileNormal/tileNormal/tileNormal/tileNormal/ / / / /tileNormal/tileNormal/ / / / /tileNormal/tileNormal/ / / / /tileNormal/tileNormal/ / / / / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / / /gateVertical/ /
+ / /tileNormal/tileNormal/tileNormal/tileNormal/cannonNormalUp/cannonNormalUp/tileNormal/tileNormal/tileNormal/tileNormal/cannonNormalUp/cannonNormalUp/cannonNormalUp/cannonNormalUp/tileNormal/tileNormal/ / / / /tileNormal/tileNormal/ / / / /tileNormal/tileNormal/ / / / / / / / / / / /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/ / / / / / / /gateVertical/ /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /gateVertical/ /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /cannonNormalUp/ / /cannonNormalUp/ /cannonNormalUp/ /cannonNormalUp/ / / / / /gateVertical/ /

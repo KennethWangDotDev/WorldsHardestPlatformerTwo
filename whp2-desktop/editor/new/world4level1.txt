@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 550
+Time Limit: 5.0
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / /character/ /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/
+cannonFastRight/coin/ / / / / / / / / / / / / / / /gateKey/gateVertical/gateVertical/tileSpikeLeft/tileNormal/
+ /tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/tileSpeed/gateVertical/gateVertical/tileSpikeLeft/tileNormal/
+ / / / / / / / / / / / / / / / / / /gateVertical/gateVertical/tileSpikeLeft/tileNormal/
+ / / / / / / / / / / / / / / / / / /gateVertical/gateVertical/tileSpikeLeft/tileNormal/
+ / / / / / / / / / / / / / / / / / /gateVertical/gateVertical/tileSpikeLeft/tileNormal/
+ / / / / / / / / / / / / / / / / / /gateVertical/gateVertical/tileSpikeLeft/tileNormal/
+ / / / / / / / / / / / / / / / / / /gateVertical/gateVertical/tileSpikeLeft/tileNormal/
+ / / / / / / / / / / / / / / / / / /gateVertical/gateVertical/tileSpikeLeft/tileNormal/
+ / / / /door/ / / / / / / / / / / / / /gateVertical/gateVertical/tileSpikeLeft/tileNormal/
+ / / / /tileSpeed/tileSpeed/ / / / / / / / /tileSpeed/tileSpeed/ / /gateVertical/gateVertical/tileSpikeLeft/tileNormal/
+ / / / / / / / / / / / / / / / / / /gateVertical/gateVertical/tileSpikeLeft/tileNormal/
+ / / / / / / / / / / / / / / / / / / / /tileNormal/tileNormal/
+ / / / / / / / / / / / / / / / / / / / / / /

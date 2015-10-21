@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 675
+Time Limit: 10.5
+Level Type: 1
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / /tileNormal/cannonNormalDown/tileNormal/tileNormal/tileNormal/tileNormal/cannonNormalDown/cannonNormalDown/tileNormal/tileNormal/ / / /
+ / / / / / / / / / / / / / /tileNormal/ / / / / / / / /tileNormal/ / / /
+ / / / / / / / / / / / / / /tileNormal/ / / / / / / / /tileNormal/ / / /
+ / / / / / / / / / / / / / /tileNormal/ / /tileNormal/tileNormal/ / / / /tileNormal/ / / /
+ / / / / / / / / / / / / / /tileNormal/ / / /tileNormal/ / / / /tileNormal/ / / /
+ / / / / / / / / / / / / / /tileNormal/ / / /tileNormal/ / / / /tileNormal/ / / /
+ / / / / / / / / / / / / / /tileNormal/tileNormal/ / /tileNormal/ / / / /tileNormal/ / / /
+ / / / / / / / / / / / / / /tileNormal/ / / /tileNormal/tileDroppable/tileDroppable/tileDroppable/tileDroppable/tileNormal/ / / /
+ / / /character/ / / / /cannonSinDown/ / / / / /tileNormal/ / / /tileNormal/ / / / /tileNormal/ / / /
+ / / / / / / / / / / / / / /tileNormal/ / /tileNormal/tileNormal/ / / / /tileNormal/ / / /
+ / / / / / / / / / / / / / / / / / /tileNormal/ / / / /tileNormal/ / / /
+ / / / / / / / / / / / / / / / / / /tileNormal/ / / / / / /door/ /
+ /tileNormal/tileNormal/tileNormal/tileNormal/tileNormal/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileSlow/tileNormal/tileNormal/tileNormal/cannonNormalUp/tileNormal/cannonNormalUp/tileNormal/tileNormal/cannonNormalUp/tileNormal/tileNormal/tileNormal/tileNormal/
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / /cannonSinUp/ / / / / / / / / / / / / / / /

@@ -1,0 +1,29 @@
+Character Starting Coordinates: 0.0
+Tile Count: 679
+Time Limit: 15.5
+Level Type: 0
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / / / / / / / / / / / / / / /
+tileNormal/ / / / / /cannonNormalDown/ / / /cannonNormalDown/ / / /cannonNormalDown/ / / /cannonNormalDown/ / / /cannonNormalDown/ / / /cannonNormalDown/
+tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / /
+tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / /
+tileNormal/ / / / / / / / / / / / / / / / / / / / / / / / / / /
+tileNormal/ / / / / / / / /tileSpikeUp/ / / / / / /tileSpikeUp/ / / / / / / / / / /
+tileNormal/ / / / / / /coin/coin/tileSpikeDown/coin/coin/ / /coin/coin/tileSpikeDown/ / / / / / / / / / /
+tileNormal/character/ / / /tileSpikeLeft/tileSpikeRight/ / / / / /tileSpikeLeft/tileSpikeRight/ / / / / / /tileSpikeLeft/tileSpikeRight/ / / / / /
+tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/tileWalkwayRight/ /
+gateVertical/ / / / / / / / / / / / / / / / / / / / / / / / / / /
+gateVertical/ / / / / / / / / / / / / / / / / / / / / / / / / / /
+gateVertical/ / / / / /cannonSinRight/ / / / / / / / / / / / / / / / / / / /cannonSinLeft/
+gateVertical/ /door/ / / / / / / / / / / / / / / / / / / / / / / / /
+tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/tileWalkwayLeft/ /
